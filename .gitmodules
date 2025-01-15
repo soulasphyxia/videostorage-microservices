@@ -1,0 +1,3 @@
+[submodule "video-service"]
+	path = video-service
+	url = git@github.com:soulasphyxia/video-service.git
