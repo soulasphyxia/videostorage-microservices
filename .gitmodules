@@ -3,4 +3,7 @@
 	url = git@github.com:soulasphyxia/video-service.git
 [submodule "account-service"]
 	path = account-service
-	url = git@github.com:soulasphyxia/account-service.git
+    url = git@github.com:soulasphyxia/account-service.git
+[submodule "analytics-service"]
+    path = analytics-service
+    url = git@github.com:soulasphyxia/analytics-service.git
