@@ -7,3 +7,9 @@
 [submodule "analytics-service"]
     path = analytics-service
     url = git@github.com:soulasphyxia/analytics-service.git
+[submodule "notification-service"]
+    path = notification-service
+    url = git@github.com:soulasphyxia/notification-service.git
+[submodule "processing-service"]
+    path = processing-service
+    url = git@github.com:soulasphyxia/processing-service.git
